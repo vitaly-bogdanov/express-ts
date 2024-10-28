@@ -1,0 +1,6 @@
+**/.git
+**/node_modules
+.env.dev
+.env.test
+.env.prod.example
+docker-compose.yml
